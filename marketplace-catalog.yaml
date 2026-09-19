@@ -1,0 +1,19 @@
+format_version: 1
+name: Autowright
+description: Example automations maintained by the Autowright developers. Authoring
+  agent required to make these automations work in your machine.
+entries:
+- title: Congress stock buys
+  description: Track what stocks are bought and sold by members of congress.
+  path: https://github.com/hansololz/automation-marketplace/blob/main/congress-stock-purchase-watcher/Congress%20stock%20buys.autowright
+  image: https://upload.wikimedia.org/wikipedia/commons/5/5b/Greater_coat_of_arms_of_the_United_States.svg
+- title: Manga Watcher
+  description: Watches MangaKatana manga for new chapters and pings Discord, with
+    add/list/remove commands.
+  path: https://github.com/hansololz/automation-marketplace/blob/main/manga-watcher/MangaKatana%20chapter%20watcher.autowright
+  image: https://mangakatana.com/static/img/logo.png
+- title: Download Video
+  description: Downloads a video using yt-dlp link to a folder I choose, by hand or
+    from a Discord mention.
+  path: https://github.com/hansololz/automation-marketplace/blob/main/video-downloader/Download%20videos.autowright
+  image: https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg
