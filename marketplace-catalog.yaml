@@ -3,7 +3,7 @@ name: Autowright
 description: Example automations maintained by the Autowright developers. Authoring
   agent required to make these automations work in your machine.
 entries:
-- title: Congress stock buys
+- title: Congressional Stock Trade Watcher
   description: Track what stocks are bought and sold by members of congress.
   path: https://github.com/hansololz/automation-marketplace/blob/main/congress-stock-purchase-watcher/Congress%20stock%20buys.autowright
   image: https://upload.wikimedia.org/wikipedia/commons/5/5b/Greater_coat_of_arms_of_the_United_States.svg
